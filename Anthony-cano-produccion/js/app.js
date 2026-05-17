@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const selectDiasProduccion = document.getElementById('id-select-dias');
 const btncargarProduccion = document.getElementById('id-btn-cargar-produccion');
 const btnPresentarProduccion = document.getElementById('id-btn-presentar-produccion');
@@ -106,7 +106,7 @@ function analizarProduccion() {
         'Dias sobre promedio: ' + diasAltos + '\n' +
         'Dias criticos: ' + diasCriticos
 
-=======
+
 const selectDiasProduccion = document.getElementById('id-select-dias');
 const btncargarProduccion = document.getElementById('id-btn-cargar-produccion');
 const btnPresentarProduccion = document.getElementById('id-btn-presentar-produccion');
@@ -213,6 +213,4 @@ function analizarProduccion() {
         'Promedio: ' + promedio.toFixed(2) + '\n' +
         'Dias sobre promedio: ' + diasAltos + '\n' +
         'Dias criticos: ' + diasCriticos
-
->>>>>>> 122a2ad630fdd861d85f87c0cb91689d1a93a054
 }
